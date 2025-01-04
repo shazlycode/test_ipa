@@ -86,7 +86,7 @@ jobs:
 #           sudo xcode-select -s /Applications/Xcode.app
 #           xcodebuild -version  # Confirm the version used
         
-#       - name: Build iOS App
+#       - name: Build iOS Ap
 #         run: |
 #           # Your build steps
 #           xcodebuild -scheme MyApp -sdk iphoneos -configuration Release clean build
