@@ -1,0 +1,16 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, '16.0'
+
+# CocoaPods analytics sends network stats asynchronously
+# and is not mandatory to use
+# source 'https://github.com/CocoaPods/Specs.git'
+
+target 'Runner' do
+  use_frameworks!
+  # Pods for Runner
+#   pod 'Firebase/Core'
+#   pod 'Firebase/Auth'
+#   pod 'Firebase/Firestore'
+  
+  # Add your other pods here...
+end
